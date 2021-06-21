@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.MaterialComponents.Light" >
+        <item name="colorPrimary">@color/blue</item>
+        <item name="colorOnPrimary">@color/grey</item>
+    </style>
+
+
+
+</resources>

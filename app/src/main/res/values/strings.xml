@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Ballebaazi</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="geeks_for_geeks">Geeks for Geeks</string>
+    <string name="data_structure">Data Structure</string>
+    <string name="auhauhauahua">auhauhauahua</string>
+    <string name="instructions">Instructions</string>
+    <string name="game">Game</string>
+    <string name="achievement">Achievement</string>
+    <string name="profile">Profile</string>
+    <string name="INSTRUCTIONS">INSTRUCTIONS</string>
+    <string name="let_s_play_ballebaazi">LET\'S PLAY BALLEBAAZI</string>
+    <string name="ACHIEVEMENTS">ACHIEVEMENTS</string>
+    <string name="PROFILE">PROFILE</string>
+    <string name="ballebaazi">BALLEBAAZI</string>
+    <string name="balle_baazigar">BALLE BAAZIGAR</string>
+    <string name="champion">CHAMPION</string>
+    <string name="century_hero">CENTURY HERO</string>
+    <string name="sixer_king">SIXER KING</string>
+</resources>

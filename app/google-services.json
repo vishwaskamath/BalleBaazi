@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "498579345943",
+    "project_id": "ballebaazi-25464",
+    "storage_bucket": "ballebaazi-25464.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:498579345943:android:88a5c1ad908d66269d4252",
+        "android_client_info": {
+          "package_name": "com.example.ballebaazi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "498579345943-19325ltc8e190mopcv1ur538sqc8boml.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOJbByKbTmjwjSixhfH8LUsB7EhitOYg0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "498579345943-19325ltc8e190mopcv1ur538sqc8boml.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
